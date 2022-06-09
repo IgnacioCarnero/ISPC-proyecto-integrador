@@ -1,5 +1,5 @@
 # programador2022
+(numeral y espacio lo asigna como titulo)
+# Ceremonias en Scrum:
 
-#Ceremonias en Scrum:
-
-#Artefactos de Scrum:
+# Artefactos de Scrum:
