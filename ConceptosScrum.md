@@ -1,8 +1,8 @@
-# programador2022
-(numeral y espacio lo asigna como titulo)
+<h1> Programador2022 </h1>
+
 # Ceremonias en Scrum:
 
-Las ceremonias en scrum son 4:
+<h2>Las ceremonias en scrum son 4:</h2>
 
 <ul>
 <li>Sprint planning meeting</li>
@@ -12,3 +12,9 @@ Las ceremonias en scrum son 4:
 </ul>
 
 # Artefactos de Scrum:
+<h2>Los artefactos en SCRUM son 3:</h2>
+<ul>
+  <li>Product Backlog </li>
+  <li>Sprint Backlog </li>
+  <li>Incremento </li>
+ </ul>
