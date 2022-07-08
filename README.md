@@ -17,3 +17,8 @@ Entre las ramificaciones de MySQL, también conocidas como forks, se encuentran 
 *Drizzle, un sistema ligero de gestión de bases de datos de código abierto en desarrollo basado en MySQL 6.0.
 *MariaDB, un popular sustituto de MySQL desarrollado por la comunidad que utiliza las API y los comandos de MySQL.
 *Percona Server con XtraDB, una versión mejorada de MySQL conocida por su escalabilidad horizontal.
+
+SQL (Structured Query Language) o lo que es lo mismo un lenguaje de consultas o lenguaje declarativo de acceso a bases de datos relacionales que permite efectuar consultas con el fin de recuperar información de interés de una base de datos y hacer cambios sobre la base de datos.
+
+Bases de datos objeto-relacionales: se basan en el estándar SQL 99. En ese estándar se añade a las bases relacionales la posibilidad de almacenar procedimientos de usuario, triggers, tipos definidos por el usuario, consultas recursivas, bases de datos OLAP, tipos LOB,...
+Las últimas versiones de la mayoría de las clásicas grandes bases de datos relacionales (Oracle, SQL Server, Informix, ...) son objeto relacionales.
