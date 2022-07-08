@@ -4,6 +4,12 @@
 
 MySQL es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web. Este sistema gestor de base de datos es multiplataforma, es decir que funciona en diferentes sistemas operativos, tales como: Linux, Windows o Unix.
 
+<h2> MySQL y Base De Datos </h2>
+
+SQL (Structured Query Language) o lo que es lo mismo un lenguaje de consultas o lenguaje declarativo de acceso a bases de datos relacionales que permite efectuar consultas con el fin de recuperar información de interés de una base de datos y hacer cambios sobre la base de datos.
+Bases de datos objeto-relacionales: se basan en el estándar SQL 99. En ese estándar se añade a las bases relacionales la posibilidad de almacenar procedimientos de usuario, triggers, tipos definidos por el usuario, consultas recursivas, bases de datos OLAP, tipos LOB,...
+Las últimas versiones de la mayoría de las clásicas grandes bases de datos relacionales (Oracle, SQL Server, Informix, ...) son objeto relacionales.
+
 <h2> ¿Cómo trabaja este SGBD? </h2>
 
 MySQL se basa en un modelo cliente-servidor. El núcleo de MySQL es el servidor MySQL. El mismo está disponible como un programa independiente para su uso en un entorno de red cliente-servidor y como una biblioteca que puede ser incrustada (o enlazada) en aplicaciones independientes. Posee un gestor de conexiones que le permite interactuar con estas aplicaciones, que pueden estar desarrolladas en diferentes lenguajes (PH, Python, .NET, etc) pero las sentencias que se utilizan en MySQL pertenencen al lenguaje SQL.
@@ -17,8 +23,3 @@ Entre las ramificaciones de MySQL, también conocidas como forks, se encuentran 
 *Drizzle, un sistema ligero de gestión de bases de datos de código abierto en desarrollo basado en MySQL 6.0.
 *MariaDB, un popular sustituto de MySQL desarrollado por la comunidad que utiliza las API y los comandos de MySQL.
 *Percona Server con XtraDB, una versión mejorada de MySQL conocida por su escalabilidad horizontal.
-
-SQL (Structured Query Language) o lo que es lo mismo un lenguaje de consultas o lenguaje declarativo de acceso a bases de datos relacionales que permite efectuar consultas con el fin de recuperar información de interés de una base de datos y hacer cambios sobre la base de datos.
-
-Bases de datos objeto-relacionales: se basan en el estándar SQL 99. En ese estándar se añade a las bases relacionales la posibilidad de almacenar procedimientos de usuario, triggers, tipos definidos por el usuario, consultas recursivas, bases de datos OLAP, tipos LOB,...
-Las últimas versiones de la mayoría de las clásicas grandes bases de datos relacionales (Oracle, SQL Server, Informix, ...) son objeto relacionales.
