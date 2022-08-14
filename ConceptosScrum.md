@@ -9,6 +9,17 @@ metodología o proceso, es un Marco de Trabajo.
 ● Su visión es opuesta a la propuesta por la metodología en
 cascada.
 
+# Sprints
+
+Son tiempos cortos (15 dias) praa entregar productos funcionales y factibles.
+
+#sprint Goal: objetivo del sprint.
+
+# sprint backlog: que vamos hacer.
+
+#restropective: como fue el sprint
+
+
 # Ceremonias en Scrum:
 
 <h2>Las ceremonias en scrum son 4:</h2>
