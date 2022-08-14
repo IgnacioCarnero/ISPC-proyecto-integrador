@@ -1,6 +1,12 @@
 # MySql
 
-<h2> ¿Que es MySQL? </h2>
+<h2> Un poco de su historia </h2>
+El principal lenguaje de base de datos y el más utilizado desde que se conoce la programación de gestión, es el Structured Query Language (SQL). Este, de consulta estructurada, facilita el acceso a la gestión de las bases de datos relaciones, lo que permite realizar tareas en ellas y realizar consultas, que sirven para obtener, agregar, eliminar o modificar informacion.
+
+Oracle Es de los más confiables sistemas de gestión de base de datos relacional, además del más usado Es propiedad de Oracle Corporation y fue desarrollado en 1977. Se accede directamente a los objetos, a través del lenguaje de consulta SQL la versatilidad le facilita ejecutarse en casi todas las plataformas existentes, Windows, Unix, Linux, MAC OS
+
+SQL Server En competencia directa a Oracle, está SQL Server de Microsoft. SQL Server se ejecuta en Transact-SQL y puede agregar características al programa, como tratamiento de errores y excepciones, extracción de datos de la web en forma directa, procesamiento de datos, uso de distintos lenguajes de programación y otros más, que lo hacen un gestor muy completo y competitivo Gestores de base de datos de acceso libre MySQL Este es de simple instalación y actúa de lado del cliente o servidor, es de código abierto y tiene licencia comercial disponible. Pertenece a Oracle Corporation y gestiona las bases de datos relacionales, con funciones multiusuario y es el más usado dentro del software libre. Fire Bird De gran potencia y muy sencillo a la vez, este sistema de gestión de base de datos relacional SQL, es uno de los mejores gestores Open Source (Código abierto) o libres. Es compatible con Windows y Linux.
+MySQL es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web. Este sistema gestor de base de datos es multiplataforma, es decir que funciona en diferentes sistemas operativos, tales como: Linux, Windows o Unix.
 
 MySQL es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web. Este sistema gestor de base de datos es multiplataforma, es decir que funciona en diferentes sistemas operativos, tales como: Linux, Windows o Unix.
 
