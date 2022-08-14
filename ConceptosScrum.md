@@ -11,13 +11,13 @@ cascada.
 
 # Sprints
 
-Son tiempos cortos (15 dias) praa entregar productos funcionales y factibles.
+●Son tiempos cortos (15 dias) praa entregar productos funcionales y factibles.
 
-#sprint Goal: objetivo del sprint.
+●Sprint Goal: objetivo del sprint.
 
-# sprint backlog: que vamos hacer.
+●Sprint backlog: que vamos hacer.
 
-#restropective: como fue el sprint
+●restropective: como fue el sprint
 
 
 # Ceremonias en Scrum:
