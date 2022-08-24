@@ -1,0 +1,1 @@
+insert into peluqueria_canina.perro values (0057,'Poli','2013-06-13','Hembra',236)
